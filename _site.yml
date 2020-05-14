@@ -26,6 +26,7 @@ navbar:
                 - text: "Blog"
                   menu:
                     - text: "Sample blog post"
+                      href: example.html
         right:
                 - icon: fa-github
                   href: https://github.com/wanderinglabslab
