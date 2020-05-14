@@ -1,0 +1,46 @@
+---
+title: Example Blog Post
+author: Me!
+---
+
+```{r setup, include = F}
+knitr::opts_chunk$set(warning = F, message = F, dev = "svg", fig.align = "center", cache = F)
+knitr::opts_chunk$set(tidy = T)
+knitr::opts_chunk$set(comment = '#>')
+library(reticulate)
+```
+
+Here is an example blog post.
+
+
+```{python}
+import numpy as np
+
+x = np.arange(44).reshape(11,4)
+print(x)
+```
+
+We can also sneakily print python objects in R
+
+```{r}
+xx = as.data.frame(py$x)
+xx
+```
+
+And grab R objects in python
+
+```{r}
+yy = 2* xx
+```
+
+```{python}
+print(r.yy)
+```
+
+And we can also import between languages
+
+```{r}
+sklearn = reticulate::import("sklearn")
+rf = sklearn$ensemble$RandomForestRegressor(n_estimators = 100)
+rf
+```

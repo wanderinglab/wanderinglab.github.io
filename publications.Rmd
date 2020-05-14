@@ -1,0 +1,16 @@
+# Our Publications {.tabset}
+
+Abstract, link, where published, link that opens bibtex
+
+## All Publications
+Everything!
+
+## Journal and Conference Papers
+Wow!
+
+## Preprints
+Arxiv!
+
+## White papers
+Stroud crowd!
+

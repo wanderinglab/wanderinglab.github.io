@@ -1,0 +1,40 @@
+
+name: "Wandering Labs Lab"
+output_dir: "."
+navbar: 
+        title: "Wandering Labs"
+        type: inverse
+        left:
+                - text: "Home"
+                  href: index.html
+                - text: "About"
+                  menu:
+                        - text: "Who We Are"
+                          href: who.html
+                        - text: "What We Do"
+                          href: what.html
+                        - text: "Research Teams"
+                          href: teams.html
+                        - text: "Our Supporters"
+                          href: support.html
+                - text: "Publications"
+                  href: publications.html
+                - text: "Software"
+                  href: software.html
+                - text: "Datasets"
+                  href: datasets.html
+                - text: "Blog"
+                  menu:
+                    - text: "Sample blog post"
+        right:
+                - icon: fa-github
+                  href: https://github.com/wanderinglabslab
+                  #- icon: ion-social-twitter
+                  # Do something for an email
+                  #  href: https://twitter.com/Daved256
+
+output:
+    html_document:
+        theme: readable
+        highlight: haddock
+        df_print: paged
