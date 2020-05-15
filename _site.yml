@@ -2,7 +2,7 @@
 name: "Wandering Lab"
 output_dir: "."
 navbar: 
-        title: "Wandering Lab Lab"
+        title: "Wandering Lab"
         type: inverse
         left:
                 - text: "Home"
