@@ -22,8 +22,9 @@ navbar:
                 - text: "Software"
                   href: software.html
                 - text: "Datasets"
-                  href: datasets.html
-                - text: "Blog"
+                  menu:
+                    - text: "Accelerometer Activity Recognition: HAROLD"
+                    - href: dataset_1.html
                   menu:
                     - text: "Sample blog post"
                       href: example.html
