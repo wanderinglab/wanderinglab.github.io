@@ -2,6 +2,7 @@
 title: Our Datasets
 ---
 
-Andy's collected dataset from capstone here
+## 1. Stationary Exercise Classification
+```{r test, child='dataset_1.Rmd'}
 
-blurb and a link, maybe also a link to a paper (@andy you should publish a dataset paper)
+```
