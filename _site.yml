@@ -1,8 +1,8 @@
 
-name: "Wandering Labs Lab"
+name: "Wandering Lab"
 output_dir: "."
 navbar: 
-        title: "Wandering Labs"
+        title: "Wandering Lab Lab"
         type: inverse
         left:
                 - text: "Home"
