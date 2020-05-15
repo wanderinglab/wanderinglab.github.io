@@ -24,7 +24,7 @@ navbar:
                 - text: "Datasets"
                   menu:
                     - text: "Accelerometer Activity Recognition: HAROLD"
-                    - href: dataset_1.html
+                      href: harold.html
                 - text: "Blog"
                   menu:
                   - text: "Sample blog post"
