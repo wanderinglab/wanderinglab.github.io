@@ -7,6 +7,7 @@ author: Me!
 knitr::opts_chunk$set(warning = F, message = F, dev = "svg", fig.align = "center", cache = F)
 knitr::opts_chunk$set(tidy = T)
 knitr::opts_chunk$set(comment = '#>')
+library("reticulate")
 ```
 
 Here is an example blog post.
