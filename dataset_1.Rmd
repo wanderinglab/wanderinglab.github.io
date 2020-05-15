@@ -24,45 +24,80 @@ Crossfit Lincoln, Lincoln, NE 68502
 The first of our datasets comes from a Andy Heroy's capstone project while at SMU.  The unique thing about this dataset is that its been generated from 28 participants doing crossfit style movements with 3 Zenshin LMPS-B2 IMU's (Inertial Measurement Units) attached to the body at the right wrist, mid-waist, and left ankle.  The shape of the data is 254k rows by 62 column features.  The data was collected at 400HZ and each sensor was synchronized via timestamp.  Every subject performed 25 movements of Jumping Jacks, russian kettlebell swings, and air squats. 
 
 **Sensors**
-3 Zenshin LPMS-B2 inertial measurement units (IMU)
+
+
+- 3 Zenshin LPMS-B2 inertial measurement units (IMU)
+
 - sampling frequency 400HZ
+
 - Sensor Positions
-  - 1 IMU on top of right wrist
-  - 1 IMU inserted into fanny pack around waist
-  - 1 IMU attached to outside of left ankle
+    - 1 IMU on top of right wrist
+    - 1 IMU inserted into fanny pack around waist
+    - 1 IMU attached to outside of left ankle
 
 **Data Collection**
+
+
 Each subject was recorded doing 25 repetitions of 1 movement and exported to CSV before moving onto the next movement.  The data was then combined in post processing which was synced via timestamp.  
 
 #### Attribute Information:
+
 The 62 columns in the HAROLD dataset are as follows
+
 1-3.    Sensor 1 Acceleration (ms^2) in (x,y,x) 
+
 4-6.    Sensor 1 Gyroscope (deg/s) in (x,y,x) 
-7-9.    Sensor 1 Magnemometer (uT) in (x,y,x) 
+
+7-9.    Sensor 1 Magnemometer (uT) in (x,y,x)
+
 10-12.  Sensor 1 Euler Angle (deg) in (x,y,x)
+
 13-16.  Sensor 1 Quarternion in (W,X,Y,Z) 
+
 17-19.  Sensor 1 Linear Acceleration (m/s^2) in (x,y,x)
+
 20-22.  Sensor 2 Acceleration (ms^2) in (x,y,x) 
+
 23-25.  Sensor 2 Gyroscope (deg/s) in (x,y,x) 
+
 26-28.  Sensor 2 Magnemometer (uT) in (x,y,x) 
+
 29-31.  Sensor 2 Euler Angle (deg) in (x,y,x)
+
 32-35.  Sensor 2 Quarternion in (W,X,Y,Z) 
+
 36-38.  Sensor 2 Linear Acceleration (m/s^2) in (x,y,x)
+
 39-41.  Sensor 3 Acceleration (ms^2) in (x,y,x) 
+
 42-44.  Sensor 3 Gyroscope (deg/s) in (x,y,x) 
+
 45-47.  Sensor 3 Magnemometer (uT) in (x,y,x) 
+
 48-50.  Sensor 3 Euler Angle (deg) in (x,y,x)
+
 51-54.  Sensor 3 Quarternion in (W,X,Y,Z) 
+
 55-57.  Sensor 3 Linear Acceleration (m/s^2) in (x,y,x)
-58.     TimeStamp (seconds)
-59.     exercise_id
-60.     exercise_amt
-61.     sessionID
-62.     subjectID
+
+58. TimeStamp (seconds)
+
+59. exercise_id
+
+60. exercise_amt
+
+61. sessionID
+
+62. subjectID
+
 
 **Activity Movements**
+
+
 1.  Jumping Jacks
+
 2.  Air Squat
+
 3.  Russian Kettlebell Swing
 
 
