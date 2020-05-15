@@ -1,10 +1,9 @@
----
-title: Our Research Teams
----
 
+# Our Research Teams {.tabset}
 
 Research teams:
-    Reinforcement Learning: DS
-    Data management: JP
-    Data Collection: AH
-    ??????????????: DJ
+
+## Reinforcement Learning: DS
+## Data management: JP
+## Data Collection: AH
+## ??????????????: DJ
