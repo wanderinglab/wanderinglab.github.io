@@ -38,7 +38,7 @@ The first of our datasets comes from a Andy Heroy's capstone project while at SM
 **Data Collection**
 
 
-Each subject was recorded doing 25 repetitions of 1 movement and exported to CSV before moving onto the next movement.  The data was then combined in post processing which was synced via timestamp.  
+Each subject was recorded doing 25 repetitions of 1 movement and exported to CSV before moving onto the next movement.  The data was then combined in pre-processing which was synced via timestamp.  Calibration of accelerometer and magnemometer was performed between each subject.  
 
 #### Attribute Information:
 
