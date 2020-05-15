@@ -9,10 +9,11 @@ A link to the paper can be found [here](https://scholar.smu.edu/datasciencerevie
 #### Abstract:
 The HAROLD (Human Action Recognition On LPMS-B2 Dataset) dataset contains 3 different stationary exercise activities, performed by 28 subjects wearing 3 intertial measurement units.
 
-|  Dataset Characteristics |  Numerical |   Number of instances   |    254,606    |    Area   |  Computer    |
-|:------------|:-----:|:--------------|:--------------:|:-------|:--------------------:|
-|  Attribute Characteristics |  Real |   Number of Attributes   |    62    |    Date Donated   |  5/14/2020    |
-|  Associated Tasks |  Classification |   Missing Values?   |    Yes    |    Degree of Awesome   |  infinite    |
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|-------------|-------------|-------------|-------------|
+| **Dataset Characteristics** |  Numerical | **Number of instances**   |    254,606   |  **Area** |  Computer    |
+|  **Attribute Characteristics** |  Real |   **Number of Attributes**   |    62    |  **Date Donated** |  5/14/2020    |
+|  **Associated Tasks** |  Classification |   **Missing Values?**   |    Yes    |    **Degree of Awesome**   |  infinite    |
 
 
 #### Source:
