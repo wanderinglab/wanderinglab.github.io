@@ -25,9 +25,10 @@ navbar:
                   menu:
                     - text: "Accelerometer Activity Recognition: HAROLD"
                     - href: dataset_1.html
+                - text: "Blog"
                   menu:
-                    - text: "Sample blog post"
-                      href: example.html
+                  - text: "Sample blog post"
+                    href: example.html
         right:
                 - icon: fa-github
                   href: https://github.com/wanderinglabslab
