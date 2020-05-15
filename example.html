@@ -14,6 +14,7 @@
 
 <title>Example Blog Post</title>
 
+<script src="site_libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -29,26 +30,27 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(title);
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
+    border: none; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
@@ -57,9 +59,9 @@ pre.numberSource a.sourceLine::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {  }
+  {   }
 @media screen {
-a.sourceLine::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ff0000; } /* Alert */
 code span.an { color: #008000; } /* Annotation */
@@ -423,10 +425,10 @@ $(document).ready(function () {
 
 
 <p>Here is an example blog post.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb1-1" title="1"><span class="im">import</span> numpy <span class="im">as</span> np</a>
-<a class="sourceLine" id="cb1-2" title="2"></a>
-<a class="sourceLine" id="cb1-3" title="3">x <span class="op">=</span> np.arange(<span class="dv">44</span>).reshape(<span class="dv">11</span>,<span class="dv">4</span>)</a>
-<a class="sourceLine" id="cb1-4" title="4"><span class="bu">print</span>(x)</a></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb1-2"><a href="#cb1-2"></a></span>
+<span id="cb1-3"><a href="#cb1-3"></a>x <span class="op">=</span> np.arange(<span class="dv">44</span>).reshape(<span class="dv">11</span>,<span class="dv">4</span>)</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="bu">print</span>(x)</span></code></pre></div>
 <pre><code>#&gt; [[ 0  1  2  3]
 #&gt;  [ 4  5  6  7]
 #&gt;  [ 8  9 10 11]
@@ -439,16 +441,16 @@ $(document).ready(function () {
 #&gt;  [36 37 38 39]
 #&gt;  [40 41 42 43]]</code></pre>
 <p>We can also sneakily print python objects in R</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" title="1">xx =<span class="st"> </span><span class="kw">as.data.frame</span>(py<span class="op">$</span>x)</a>
-<a class="sourceLine" id="cb3-2" title="2">xx</a></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a>xx =<span class="st"> </span><span class="kw">as.data.frame</span>(py<span class="op">$</span>x)</span>
+<span id="cb3-2"><a href="#cb3-2"></a>xx</span></code></pre></div>
 <div data-pagedtable="false">
 <script data-pagedtable-source type="application/json">
 {"columns":[{"label":["V1"],"name":[1],"type":["dbl"],"align":["right"]},{"label":["V2"],"name":[2],"type":["dbl"],"align":["right"]},{"label":["V3"],"name":[3],"type":["dbl"],"align":["right"]},{"label":["V4"],"name":[4],"type":["dbl"],"align":["right"]}],"data":[{"1":"0","2":"1","3":"2","4":"3"},{"1":"4","2":"5","3":"6","4":"7"},{"1":"8","2":"9","3":"10","4":"11"},{"1":"12","2":"13","3":"14","4":"15"},{"1":"16","2":"17","3":"18","4":"19"},{"1":"20","2":"21","3":"22","4":"23"},{"1":"24","2":"25","3":"26","4":"27"},{"1":"28","2":"29","3":"30","4":"31"},{"1":"32","2":"33","3":"34","4":"35"},{"1":"36","2":"37","3":"38","4":"39"},{"1":"40","2":"41","3":"42","4":"43"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
   </script>
 </div>
 <p>And grab R objects in python</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" title="1">yy =<span class="st"> </span><span class="dv">2</span> <span class="op">*</span><span class="st"> </span>xx</a></code></pre></div>
-<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb5-1" title="1"><span class="bu">print</span>(r.yy)</a></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a>yy =<span class="st"> </span><span class="dv">2</span> <span class="op">*</span><span class="st"> </span>xx</span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1"></a><span class="bu">print</span>(r.yy)</span></code></pre></div>
 <pre><code>#&gt;       V1    V2    V3    V4
 #&gt; 0    0.0   2.0   4.0   6.0
 #&gt; 1    8.0  10.0  12.0  14.0
@@ -462,9 +464,9 @@ $(document).ready(function () {
 #&gt; 9   72.0  74.0  76.0  78.0
 #&gt; 10  80.0  82.0  84.0  86.0</code></pre>
 <p>And we can also import between languages</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb7-1" title="1">sklearn =<span class="st"> </span>reticulate<span class="op">::</span><span class="kw">import</span>(<span class="st">&quot;sklearn&quot;</span>)</a>
-<a class="sourceLine" id="cb7-2" title="2">rf =<span class="st"> </span>sklearn<span class="op">$</span>ensemble<span class="op">$</span><span class="kw">RandomForestRegressor</span>(<span class="dt">n_estimators =</span> <span class="dv">100</span>)</a>
-<a class="sourceLine" id="cb7-3" title="3">rf</a></code></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1"></a>sklearn =<span class="st"> </span>reticulate<span class="op">::</span><span class="kw">import</span>(<span class="st">&quot;sklearn&quot;</span>)</span>
+<span id="cb7-2"><a href="#cb7-2"></a>rf =<span class="st"> </span>sklearn<span class="op">$</span>ensemble<span class="op">$</span><span class="kw">RandomForestRegressor</span>(<span class="dt">n_estimators =</span> <span class="dv">100</span>)</span>
+<span id="cb7-3"><a href="#cb7-3"></a>rf</span></code></pre></div>
 <pre><code>#&gt; RandomForestRegressor(bootstrap=True, criterion=&#39;mse&#39;, max_depth=None,
 #&gt;            max_features=&#39;auto&#39;, max_leaf_nodes=None,
 #&gt;            min_impurity_decrease=0.0, min_impurity_split=None,
