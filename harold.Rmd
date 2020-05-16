@@ -7,7 +7,7 @@ title: HAROLD
 A link to the paper can be found [here](https://scholar.smu.edu/datasciencereview/vol3/iss1/1/)
 
 #### Abstract:
-The HAROLD (Human Action Recognition On LPMS-B2 Dataset) dataset contains 3 different stationary exercise activities, performed by 28 subjects wearing 3 intertial measurement units.
+The HAROLD (Human Action Recognition On LPMS-B2 Dataset) contains 3 different stationary exercise activities, performed by 28 subjects wearing 3 intertial measurement units.
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|-------------|-------------|-------------|-------------|
