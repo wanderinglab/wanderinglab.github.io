@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: wanderinglab/hugo_site
+  repo: CovidDS-SMU/covid-hugo
 media_folder: 'static/img/'
 public_folder: 'img'
 collections:
