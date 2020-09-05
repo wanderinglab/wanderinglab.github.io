@@ -1,6 +1,6 @@
 # Wandering Lab Website
 
-This is the website of John Santerre Ph.D. academic research group.
+This is the website of John Santerre Ph.D.'s academic research group.
 
 It's a direct copy in format from the Allan Labs.  Please visit them! https://www.allanlab.org/
 
