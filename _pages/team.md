@@ -18,7 +18,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 ## Researchers
 
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.seniors %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -82,7 +82,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 ## Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.researchers %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
