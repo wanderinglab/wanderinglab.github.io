@@ -1,45 +1,56 @@
-- name: Stroud
-  photo:
-  info:
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
-  education4:
-  education5:
+- name: John Santerre
+  photo: santerre.jpg
+  info: Professor, Lab Head
+  email: jsanterre@smu.edu
+  number_educ: 5
+  education1: undergrad
+  education2: cmu
+  education3: chicago
+  education4: very smart
+  education5: very very smart
 
-- name: Partee
-  photo:
-  info:
+- name: David Stroud
+  photo: stroud.png
+  info: Professor at Troy University, RL mastermind
   email:
-  number_educ:
-  education1:
-  education2:
-  education3:
+  number_educ: 3
+  education1: Education!
+  education2: can also add generic bullet points
+  education3: SMU!
 
-- name: Joesphs
-  photo:
-  info:
-  email:
-  number_educ:
-  education1:
-  education2:
+- name: David Josephs
+  photo: dj.png
+  info: Predoctoral Researcher at Stanford AIMI
+  email: djosephs@stanford.edu
+  number_educ: 3
+  education1: BS aerospace engineering/BA astronomy, University of Virginia 2018
+  education2: MS data science SMU, Outstanding Graduate Award
+  education3: Bad handwriting
 
-- name: Carson
-  photo:
-  info:
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
 
-- name: Andy
-  photo:
-  info:
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
+- name: John Partee
+  photo: partee.png
+  info: ML engineer @ startup
+  email: partee@parteesite something
+  number_educ: 3
+  education1: educ 1
+  education2: MS data science SMU, Outstanding Graduate Award
+  education3: Georgia Tech MSCS
+
+- name: Carson Drake
+  photo: carson.png
+  info: Signal processing expert, web master
+  email: drakec@smu.edu
+  number_educ: 3
+  education1: bullet 1
+  education2: bullet no 2
+  education3: SMU
+
+- name: Andy Heroy
+  photo: heroy.jpg
+  info: Sensor data extraordinaire
+  email: heroy email
+  number_educ: 3
+  education1: physics
+  education2: MS data science SMU
+  education3: What andy is do now
