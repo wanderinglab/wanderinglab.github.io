@@ -15,7 +15,6 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 
 ## Senior Researchers
 
-## Researchers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.seniors %}
@@ -79,7 +78,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 {% endif %}
 
 
-## Alumni
+## Researchers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.researchers %}
@@ -112,6 +111,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 </div>
 {% endif %}
 
+## Alumni
 ## Masters' Thesis advisees
 <div class="row">
 
