@@ -8,9 +8,9 @@
 #  education3:
 #  education4:
 
-- name: Rosanne Wijgman
+- name: Michael Wolfe
   photo: rock.jpg
-  info: Master student
-  email: rosanne.wijgman@student.ru.nl
+  info: ML engineer
+  email: Michael Email
   number_educ: 0
   education1:
