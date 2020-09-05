@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), [alumni](#alumni), [Masters Thesis Advisees](#masters-thesis-advisees), [lab visitors](#lab-visitors).
+Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), [alumni](#alumni), [Mentors, Collaborators, and Advisees](#mentors)
 
 ## Senior Researchers
 
@@ -144,32 +144,29 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 </div>
 {% endif %}
 
-## Masters' Thesis advisees
+## Mentors, External Collaborators, Advisees
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+<h4>Mentors</h4>
+{% for member in site.data.mentors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
+<h4>Extrernal Collaborators</h4>
+{% for member in site.data.collab %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
+<h4>Masters' Thesis Advisees</h4>
+{% for member in site.data.advisees.yml %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
