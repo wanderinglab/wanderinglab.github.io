@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), [alumni](#alumni), [Mentors, Collaborators, and Advisees](#mentors)
+Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), [alumni](#alumni), or [Mentors, Collaborators, and Advisees](#Mentors)
 
 ## Senior Researchers
 
@@ -144,7 +144,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 </div>
 {% endif %}
 
-## Mentors, External Collaborators, Advisees
+## Mentors and External Collaborators
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -161,12 +161,14 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 {% endfor %}
 </div>
 
+## Masters' Thesis Advisees
+<div class="row">
 <div class="col-sm-4 clearfix">
 <h4>Masters' Thesis Advisees</h4>
 {% for member in site.data.advisees %}
 {{ member.name }}
 {% endfor %}
 </div>
-
 </div>
+
 
