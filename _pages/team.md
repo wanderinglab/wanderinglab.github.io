@@ -163,7 +163,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 
 <div class="col-sm-4 clearfix">
 <h4>Masters' Thesis Advisees</h4>
-{% for member in site.data.advisees.yml %}
+{% for member in site.data.advisees %}
 {{ member.name }}
 {% endfor %}
 </div>
