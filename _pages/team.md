@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), [alumni](#alumni), [Masters Thesis Advisees](#masters-thesis-advisees), [lab visitors](#lab-visitors).
 
 ## Senior Researchers
 {% assign number_printed = 0 %}
@@ -164,7 +164,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Masters' Thesis advisees
 <div class="row">
 
 <div class="col-sm-4 clearfix">
