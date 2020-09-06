@@ -161,7 +161,6 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 {% endfor %}
 </div>
 
-## Masters' Thesis Advisees
 <div class="row">
 <div class="col-sm-4 clearfix">
 <h4>Masters' Thesis Advisees</h4>
