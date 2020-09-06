@@ -31,9 +31,9 @@ We are a collection of misfit toys connected and collaborating with researchers 
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tweedle.jpg" alt="Slide 2" />
+        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tx.png" alt="Slide 3" />
-        </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chris.png" alt="Slide 4" />
