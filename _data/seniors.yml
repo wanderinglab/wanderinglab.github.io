@@ -3,18 +3,18 @@
   info: Professor, Lab Head
   email: jsanterre@smu.edu
   number_educ: 5
-  education1: https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en
-  education2: cmu
-  education3: chicago
+  education1: Scholar https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en
+  education2: LinkedIn
+  education3: Uchicago PhD
   education4: very smart
   education5: very very smart
 
 - name: David Stroud
   photo: stroud.png
-  info: Professor at Troy University, RL mastermind
+  info: Professor at Troy University
   email:
   number_educ: 3
-  education1: Education!
+  education1: RL mastermind
   education2: can also add generic bullet points
   education3: SMU!
 

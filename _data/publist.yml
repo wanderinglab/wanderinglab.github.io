@@ -1,10 +1,10 @@
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
+- title: "Using Machine Learning for Antimicrobial Resistant DNA Identification"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: In this paper, we present a novel machine learning-based methodology for identifying bacteria DNA sub-sequences that are associated with antimicrobial resistance. The dramatic rise in cases of antibiotic resistant bacteria has been an increasing threat across the globe as the existing treatments are rendered ineffective in treating most of these cases due to mutations of their DNA. Among the most recent bacteria to display antimicrobial resistance (AMR) is Neisseria Gonorrhea with the first global treatment failure taking place in 2016. In 2018, new cases of resistance to multiple, high levels of antibiotics were reported in the United Kingdom and Australia. Timing is of the utmost importance when treating individuals who may have antimicrobial resistant infections and slowing their spread. It also is critical in identifying whether a patient has an antimicrobial infection to avoid unnecessarily prescribing antibiotics which may decrease their effectiveness in later treatments. Using machine learning, we are able to quickly and accurately identify cases of antimicrobial resistance as well as the adaptations to antibiotics.
+  authors: JI Lingle, J Santerre
   link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766
+    url:
+    display:
   highlight: 1
   news2:
 
