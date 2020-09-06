@@ -71,6 +71,4 @@ We are a collection of misfit toys connected and collaborating with researchers 
 
 We are looking for funding!
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-</figure>
+
