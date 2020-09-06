@@ -11,7 +11,7 @@ Jump to: [Support Material for Master Students](#SMMS)
 
 ## SMMS
 
-#### SVD -01 [Link]](https://youtu.be/IyRDs_OI0Vc):
+#### SVD -01 [Link](https://youtu.be/IyRDs_OI0Vc):
 <iframe width="560" height="315" src="https://youtu.be/IyRDs_OI0Vc" frameborder="0" allowfullscreen></iframe>
 
 
