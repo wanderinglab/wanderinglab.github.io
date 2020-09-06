@@ -59,7 +59,7 @@ We are a collection of misfit toys connected and collaborating with researchers 
 
 
 
-(see [Research](research)).
+(see [SmmS](SmmS)).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
