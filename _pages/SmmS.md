@@ -15,10 +15,10 @@ I like to think of these as a quilt.  With multiple renditions of topics by diff
 [Basic Linear Algebra](https://docs.google.com/document/d/1OkprOAfrTL_p43__YXqzVI5B2pyJwtbBkL68DFKuHhY/edit?usp=sharing)
 
 
-###Texts
+### Texts
 
-####Videos
-Also I record videos and have a [youtube channel](www.youtube.com/channel/UC-y9ujtuX7OLibT436zoo9A)
+#### Videos
+Also I record videos and have a [youtube channel](https://www.youtube.com/channel/UC-y9ujtuX7OLibT436zoo9A)
 Please subscribe!
 
 If you would rather just see all my videos with explanations read [this](nada).
