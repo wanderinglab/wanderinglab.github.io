@@ -5,6 +5,79 @@
   link:
     url:
     display:
+  highlight: 0
+  news2:
+
+- title: "sEMG Gesture Recognition with a Simple Model of Attention"
+  image: TBG_SL.png
+  description: Myoelectric control is one of the leading brain-machine-interfaces in the field of robotic prosthetics. We present our research in real-time surface electromyography (sEMG) signal classification, where our simple and novel attention-based approach now leads the industry, universally beating more complex, state-of-the-art models. Our model achieved an accuracy of 87\%(class-balanced accuracy: 69\%) using sEMG data and 91\%(balanced accuracy 74\%) using both sEMG and accelerometer (IMU) data on NinaPro DB5, as well as 73\% overall on NinaPro DB4, an improvement on both highly sophisticated deep learning and signal processing approaches. Notably, the representation of the data learned by the attention mechanism alone is powerful enough to yield an accuracy of 79\% on DB5. NinaPro DB5 is a standard benchmark for sEMG gesture recognition and consists of 53 unique gestures, including finger gestures, wrist gestures, and functional grasping gestures. Our proposed methodology's model simplicity represents a compelling alternative to the convolutional neural network (CNN) approaches utilized in recent research.
+  authors: D Josephs, C Drake, A Heroy, J Santerre -
+  link:
+    url:
+    display:
   highlight: 1
   news2:
 
+
+- title: "Forecasting Power Consumption in Pennsylvania During the COVID-19 Pandemic: A SARIMAX Model with External COVID-19 and Unemployment Variables"
+  image: TBG_SL.png
+  description: In this paper, we present how electrical consumption can reveal insight into the novel COVID-19 pandemic spread. We analyze electrical power consumption provided by PPL Electric Utilities, Department of Labor’s unemployment claims, and the COVID-19 cases/deaths for the State of Pennsylvania to study the impact of the pandemic on the infrastructure. Using a SARIMA model as our benchmark and we analyzed the use of a SARIMAX model to forecast the power consumption in Pennsylvania 14 days ahead. Our work quantifies and illuminates the effect that the strict legislation passed to minimize the spread of COVID19 had a on power consumption. Most importantly, this study helps drive a greater understanding into the hidden cost of a global pandemic such as COVID-19.
+  authors: J Au, J Saldaña Jr, B Spanswick, J Santerre
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+- title: "Compressed DNA Representation for Efficient AMR Classification"
+  image: TBG_SL.png
+  description: In this paper, we explore a representation methodology for the compression of DNA isolates. Using lossless string compression via tokenization of frequently repeated segments of DNA, we reduce the length of the isolates to be counted as k-mers for classification. With this new representation, we apply a previously established feature sampling method to dramatically reduce the feature space. In understanding the genetic diversity, we also look at conserving biological function across these spaces. Using a random forest model we were able to predict the resistance or susceptibility of bacteria with 85-90\% accuracy, with a 30-50\% reduction in overall isolate length, and an 80-90\% reduction in the feature space over baseline. Significant contributions were built upon previous analysis of similar data.
+  authors: J Partee, R Hazell, A Solsi, J Santerre
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+- title: "Stationary Exercise Classification using IMUs and Deep Learning"
+  image: TBG_SL.png
+  description: In the current market, successful fitness tracking devices utilize heart rate and GPS to determine performance. These devices are useful, but don't extensively classify stationary exercise. This paper proposes a modern approach for tuning and investigating optimal neural network types on stationary exercises using Inertial Measurement Units (IMUs). Using three IMUs located on the ankle, waist, and wrist, data is collected to map the body as it moves during the stationary physical activity. A novel five-stage deep learning tuning system was written and deployed to classify user movement as one of three classes air squats, jumping jacks, and kettlebell swings. It was determined that the ConvLSTM2D type is the most accurate and second fastest for training stationary exercise classification. Tracking of human movement extends to realms outside of fitness such as robotics, medical and military applications.
+  authors: Andrew M Heroy, Zackary Gill, Samantha Sprague, J Santerre
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+- title: "Automated Spectroscopic Detection And Mapping Using ALMA and Machine LearningTechniques"
+  image: TBG_SL.png
+  description: In the current market, successful fitness tracking devices utilize heart rate and GPS to determine performance. These devices are useful, but don't extensively classify stationary exercise. This paper proposes a modern approach for tuning and investigating optimal neural network types on stationary exercises using Inertial Measurement Units (IMUs). Using three IMUs located on the ankle, waist, and wrist, data is collected to map the body as it moves during the stationary physical activity. A novel five-stage deep learning tuning system was written and deployed to classify user movement as one of three classes air squats, jumping jacks, and kettlebell swings. It was determined that the ConvLSTM2D type is the most accurate and second fastest for training stationary exercise classification. Tracking of human movement extends to realms outside of fitness such as robotics, medical and military applications.
+  authors: S Cocke, A Wilkins, J McDaniel, J Santerre, C Nixon
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+
+
+- title: "Predicting Premature Birth Risk with cfRNA"
+  image: TBG_SL.png
+  description: Identifying which genes are early indicators for preterm births using cell-free ribonucleic acid (cfRNA) from non-invasive blood tests provided by pregnant women can improve prenatal care. Currently, there are no medical tests for early detection of preterm birth risk in routine checkups for pregnant women. Recent studies have shown potential genes that can predict preterm birth. Machine learning techniques are utilized to see if the Area Under the Curve (AUC) can be improved upon when evaluating the prediction accuracy for chosen genes sequences and concentrations. Using cell-free RNA data from non-invasive blood tests in conjunction with machine learning, we improve upon the current methodology in an effort to identify and provide evidence between gene expression data and preterm birth. In our analysis, the model accuracy is improved using cfRNA Sequence Counts by expanding the feature space in which we have increased model AUC from 81% to 100%. These results are intended to provide additional evidence of model validity as an early indicator of preterm birth.
+  authors: J Lin, J Marin, J Santerre
+  link:
+    url:
+    display:
+  highlight: 0
+  news2:
+
+
+- title: "Automated Pleural Effusion Detection on Chest X-Rays"
+  image: TBG_SL.png
+  description: In this paper we present a lightweight solution to help identify a pathological condition called Pleural Effusion using chest x-rays (CXR). Patients with Pleural Effusion have been found to have increased mortality rates, and if left undiagnosed effusion has been found to contribute to congestive heart failure, malignancy, pulmonary embolism, and tuberculosis [15][13]. Using convolutional neural network architectures we developed a model to assist in the successful diagnosis of Pleural Effusion. The effectiveness of our model was evaluated against 200 studies manually labeled by consensus from 3 board certified radiologist. We demonstrate that our model is able to reproduce current baseline performance for this task with a model that is 10x smaller and 30x faster. This lighter architecture allows for more flexibility in deployment including the ability to deploy directly on an edge node. We present this model as a tool for the radiologists to diagnose the presence of Pleural Effusion from a diagnostic imaging study.
+  authors: N Wall, M Palanisamy, J Santerre
+  link:
+    url:
+    display:
+  highlight: 0
+  news2:
