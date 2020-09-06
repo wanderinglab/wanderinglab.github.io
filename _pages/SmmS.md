@@ -6,26 +6,22 @@ sitemap: false
 permalink: /SmmS/
 ---
 
-## SmmS
+## Support Material for Masters Students
+### Motivations:
+Masters students lack time and breadth of exposure when compared to PhD's. While the web drowns in one page tutorials, there are some phenomenal resources for getting a real top notch education from the best researchers.  Here I've tried to curate some of the best into topics I've seen my students struggle with.
+
+I like to think of these as a quilt.  With multiple renditions of topics by different professors woven together.
+[Basic Linear Algebra](https://docs.google.com/document/d/1OkprOAfrTL_p43__YXqzVI5B2pyJwtbBkL68DFKuHhY/edit?usp=sharing)
+
+
+###Texts
+
+####Videos
+Also I record videos and have a [youtube channel](www.youtube.com/channel/UC-y9ujtuX7OLibT436zoo9A)
+Please subscribe!
+
+If you would rather just see all myvideos with explinations read [this](nada).
+
 
 #### SVD -01 [Link](https://youtu.be/IyRDs_OI0Vc):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IyRDs_OI0Vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-# Research
-
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high?
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
-
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
-
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
