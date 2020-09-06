@@ -8,7 +8,6 @@ permalink: /pictures/
 # Pictures
 Jump to: [Support Material for Master Students](#SMMS)
 
-
 ## SMMS
 
 #### SVD -01 [Link](https://youtu.be/IyRDs_OI0Vc):
