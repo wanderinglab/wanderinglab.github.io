@@ -1,6 +1,6 @@
 - name: John Santerre
   photo: santerre.jpg
-  info: Professor, Lab Head
+  info: Professor, Lab Head, [I'm an inline-style link](https://www.google.com)
   email: jsanterre@mail.smu.edu
   number_educ: 4
   instgram_yes: 1
