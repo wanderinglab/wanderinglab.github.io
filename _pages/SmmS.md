@@ -7,7 +7,7 @@ permalink: /SmmS/
 ---
 
 ## Support Material for Masters Students
-###[youtube channel](https://www.youtube.com/channel/UC-y9ujtuX7OLibT436zoo9A)
+### [youtube channel](https://www.youtube.com/channel/UC-y9ujtuX7OLibT436zoo9A)
 Recorded videos!  Please subscribe!
 
 ### Motivations:
