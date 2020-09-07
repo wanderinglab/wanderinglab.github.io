@@ -31,6 +31,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
   <i>{{ member.info }}<br>email: <{{ member.email }}> </i>
   <ul style="overflow: hidden">
 
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
