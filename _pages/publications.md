@@ -9,9 +9,10 @@ permalink: /publications/
 
 # Publications
 
+
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar]( https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en))
+(For a full list see [below](#full-list) or go to [Google Scholar]( https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en) or go see [Current Projects](https://docs.google.com/document/d/1dsKI2JQhwuTBJVr2DovFsp2ja6SONaqNaJgoVGoqJgA/edit?usp=sharing))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
