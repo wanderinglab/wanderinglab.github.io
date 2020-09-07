@@ -21,8 +21,10 @@ I like to think of these as a quilt.  With multiple renditions of topics by diff
 Also I record videos and have a [youtube channel](https://www.youtube.com/channel/UC-y9ujtuX7OLibT436zoo9A)
 Please subscribe!
 
-If you would rather just see all my videos with explanations read [this](nada).
+
+If you would rather just see all my videos with explanations read [this](https://docs.google.com/document/d/1Q2q2DHehOtgKk65aWzuqf4TZOJl3jHDAEbpM_kTvAT0/edit?usp=sharing).
 
 
-#### SVD -01 [Link](https://youtu.be/IyRDs_OI0Vc):
+Thought it might be good to see one example video:  Might add more later!
+#### [SVD -01 ](https://youtu.be/IyRDs_OI0Vc):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IyRDs_OI0Vc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
