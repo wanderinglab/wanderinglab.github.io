@@ -1,31 +1,29 @@
 - name: John Santerre
   photo: santerre.jpg
   info: Professor, Lab Head
-  email: jsanterre@smu.edu
+  email: jsanterre@mail.smu.edu
   number_educ: 5
-  education1: Scholar https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en
-  education2: LinkedIn
-  education3: Uchicago PhD
-  education4: very smart
-  education5: very very smart
+  education1: [Scholar] (https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en)
+  education2: [LinkedIn](https://www.linkedin.com/in/john-santerre-91609b6/)
+  education3: [Instagram](https://www.instagram.com/scrocco/?hl=en)
+  education4: [One Pager](??)
+
 
 - name: David Stroud
   photo: stroud.png
   info: Professor at Troy University
   email:
-  number_educ: 3
+  number_educ: 1
   education1: RL mastermind
-  education2: can also add generic bullet points
-  education3: SMU!
+
 
 - name: David Josephs
   photo: dj.png
   info: Predoctoral Researcher at Stanford AIMI
   email: djosephs@stanford.edu
-  number_educ: 3
+  number_educ: 2
   education1: BS aerospace engineering/BA astronomy, University of Virginia 2018
   education2: MS data science SMU, Outstanding Graduate Award
-  education3: Bad handwriting
 
 
 - name: John Partee
