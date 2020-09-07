@@ -1,13 +1,13 @@
 - name: John Santerre
   photo: santerre.jpg
-  info: Professor, Lab Head,
+  info: Professor, Lab Head, [Scholar](https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en),[LinkedIn](https://www.linkedin.com/in/john-santerre-91609b6/), [Instagram](https://www.instagram.com/scrocco/?hl=en)
   email: jsanterre@mail.smu.edu
   number_educ: 4
   instgram_yes: 1
-  instgram: [I'm an inline-style link](https://www.google.com)
-  education1: "[Scholar](https://scholar.google.com/citations?user=S-pQwpgAAAAJ&hl=en)"
-  education2: "[LinkedIn](https://www.linkedin.com/in/john-santerre-91609b6/)"
-  education3: "[Instagram](https://www.instagram.com/scrocco/?hl=en):"
+  education1: Uni. Chicago, Ph.D.
+  education2: CMU, Pre-doc
+  education3: Middlebury, BA
+  education4: NYU,UEA,St. Joes,UNH,UNE
 
 
 - name: David Stroud

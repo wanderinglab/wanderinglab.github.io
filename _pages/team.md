@@ -29,8 +29,6 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}>
-  {% if member.instgram_yes == 1 %}
-  <{{ member.instgram }}>
   {% endif %}
 
   </i>
