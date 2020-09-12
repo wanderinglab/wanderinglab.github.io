@@ -5,8 +5,7 @@ excerpt: "Wandering Lab"
 sitemap: false
 permalink: /
 ---
-
-We are a collection of misfit toys connected and collaborating with researchers in diverse and surprising ways. John's path to his PhD was highly atypical, so too is his research lab.  Collaborators have included faculty and researchers at (NASA, Troy, Tufts, SMU, Stanford, Blank and Blank). Everything is remote(hence wandering) and unofficial.  Its taken on a natural landing pad for masters students progressing to their Phd's, for Phd's transitioning to data science, and for researchers looking for motivated labor.
+A digital manifestation of complete and total intellectual freedom.  We are a collection of misfit toys collaborating with researchers in diverse and surprising ways. Just as John's path to his PhD was highly atypical, so too is his research lab.  Collaborators have included faculty and researchers at (NASA, Troy, Tufts, SMU, Stanford, Blank and Blank). Everything is remote(hence wandering) and unofficial.  Its taken on a natural landing pad for masters students progressing to their Phd's, for Phd's transitioning to data science, and for researchers looking for motivated labor.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
