@@ -13,7 +13,8 @@ permalink: /team/
 
 Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), [alumni](#alumni), or [Mentors, Collaborators, and Advisees](#Mentors)
 
-## Senior Researchers
+## Research Leads
+Research Leads are expected to drive their own research.  They are our groups equivalent to a post-doc in traditional groups.  Almost universally the only people with enough time and drive to serve as a Research Lead are those who expect to pursue a PhD in the near future.  They are expect to progress without direct supervision. Its at least an order of magnitude more work then a researcher.
 
 
 {% assign number_printed = 0 %}
@@ -79,6 +80,7 @@ Jump to [Senior Researchers](#senior-researchers), [researchers](#researchers), 
 
 
 ## Researchers
+Researchers are typically interested in helping, but don't have considerable time to devote to our labs tasks.  They are expected to collaborate with the Lead researchers to achieve the goals the LR lay out.  They are our groups equivalent to a undergrad research assistants. They are expected to progress WITH direct supervision.
 
 {% assign number_printed = 0 %}
 {% for member in site.data.researchers %}

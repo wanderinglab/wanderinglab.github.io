@@ -7,6 +7,21 @@
 #  education2:
 #  education3:
 #  education4:
+- name: Andy Heroy
+  photo: heroy.jpg
+  info: Sensor data extraordinaire
+  email: heroy email
+  number_educ: 3
+  education1: physics
+  education2: MS data science SMU
+  education3: What andy is do now
+
+- name: Carson Drake
+  photo: carson.png
+  info: Signal processing expert,
+  email: drakec@smu.edu
+  number_educ: 3
+  education1: College
 
 - name: Michael Wolfe
   photo: wolfe.png
