@@ -36,3 +36,12 @@
   email:
   number_educ: 0
   education1:
+
+- name: Stuart Miller
+  photo: s_miller.jpeg
+  info: Software Engineer
+  email: stuart@smu.edu
+  number_educ: 3
+  education1: MS Data Science SMU, Outstanding Graduate Award
+  education2: BS Electrical Engineering, LeTourneau University
+  education3: BS Engineering Physics, LeTourneau University
