@@ -36,13 +36,10 @@
   education3: Georgia Tech MSCS
 
 
-- name: Noelle
-  photo: verdoes.jpg
-  duration: In the Wandering Lab 2020
-  info:
-  email:
-  number_educ:
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Noelle Brown
+  photo: brown.png
+  info: Data Science Instructor
+  email: noelle.e.br@gmail.com
+  number_educ: 2
+  education1: MS Data Science, Southern Methodist University
+  education2: BS Mathematics, Colorado State University
