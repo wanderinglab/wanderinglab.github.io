@@ -30,11 +30,12 @@
   education1:
 
 - name: Solange Garcia de Alford
-  photo: verdoes.jpg
-  info:
-  email:
-  number_educ: 0
-  education1:
+  photo: solange.jpg
+  info:Advisor, Data Solutions 
+  email:solange.garciadealford@gmail.com
+  number_educ: 2
+  education1:Computer Systems ITESO Jesuit University
+  education2:MS Data Science SMU
 
 - name: Stuart Miller
   photo: s_miller.jpeg
