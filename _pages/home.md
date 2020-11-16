@@ -7,7 +7,7 @@ permalink: /
 ---
 A digital manifestation of complete and total intellectual freedom.  We are a collection of misfit toys collaborating with researchers in diverse and surprising ways. Just as John's path to his PhD was highly atypical, so too is his research lab.  Collaborators have included faculty and researchers at (NASA, Troy, Tufts, SMU, Stanford, Blank and Blank). Everything is remote(hence wandering) and unofficial.  Its taken on a natural landing pad for masters students progressing to their Phd's, for Phd's transitioning to data science, and for researchers looking for motivated labor.
 
-John's background [here.]({{https://docs.google.com/document/d/1yAzAxRs-IbNfx3_Pt6qWHB00IBXtz35c4rg8Q9Saqz8/edit?usp=sharing}}
+John's background [here.](https://docs.google.com/document/d/1yAzAxRs-IbNfx3_Pt6qWHB00IBXtz35c4rg8Q9Saqz8/edit?usp=sharing)
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
