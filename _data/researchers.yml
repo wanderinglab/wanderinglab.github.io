@@ -9,12 +9,11 @@
 #  education4:
 - name: Andy Heroy
   photo: heroy.jpg
-  info: Sensor data extraordinaire
-  email: heroy email
-  number_educ: 3
-  education1: physics
-  education2: MS data science SMU
-  education3: What andy is do now
+  info: Healthcare Data Scientist
+  email: heroywork@gmail.com
+  number_educ: 2
+  education1: BA Physics Kenyon
+  education2: MS Data Science SMU
 
 - name: Carson Drake
   photo: carson.png
