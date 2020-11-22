@@ -13,8 +13,9 @@
   photo: stroud.png
   info: Professor at Troy University
   email:
-  number_educ: 1
-  education1: RL mastermind
+  number_educ: 2
+  education2: MS Data Science SMU
+  education1: Reinforcement Learning Expert
 
 
 - name: David Josephs
@@ -28,12 +29,13 @@
 
 - name: John Partee
   photo: partee.png
-  info: ML engineer @ startup
-  email: partee@parteesite something
+  info: Full Stack Machine Learning Engineer, Nextech Solutions
+  email: John@jpartee.com 
   number_educ: 3
-  education1: educ 1
-  education2: MS data science SMU, Outstanding Graduate Award
+  education1: BS Computer Science
+  education2: MS Data Science SMU, Outstanding Graduate Award
   education3: Georgia Tech MSCS
+
 
 
 - name: Noelle Brown
