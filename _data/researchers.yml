@@ -25,10 +25,11 @@
 
 - name: Michael Wolfe
   photo: wolfe.png
-  info: ML engineer
-  email: Michael Email
-  number_educ: 0
-  education1:
+  info: Data & ML Engineer
+  email: michael.j.wolfe91@gmail.com
+  number_educ: 2
+  education1: MS Data Science SMU
+  education2: BS Neuroscience TCU
 
 - name: Solange Garcia de Alford
   photo: solange.jpg
