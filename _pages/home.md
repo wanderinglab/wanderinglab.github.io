@@ -5,7 +5,7 @@ excerpt: "Wandering Lab"
 sitemap: false
 permalink: /
 ---
-A digital manifestation of complete and total intellectual freedom.  We are a collection of misfit toys collaborating with researchers in diverse and surprising ways. Just as John's path to his PhD was highly atypical, so too is his research lab.  Collaborators have included faculty and researchers at (NASA, Troy, Tufts, SMU, Stanford, Blank and Blank). Everything is remote(hence wandering) and unofficial.  Its taken on a natural landing pad for masters students progressing to their Phd's, for Phd's transitioning to data science, and for researchers looking for motivated labor.
+Wandering labs is an entirely remote research lab, created to support masters of data science students transitioning to PhD programs.  Collaborators have included faculty and researchers at (NASA, Troy, Tufts, SMU, Stanford, etc.) An all volunteer group we conduct research and support other research teams.  Wandering labs offers the crucial Pre-doc experience for motivated students to build expertise, an opportunity for Phd's transitioning to data science to see how its done, and for outside researchers looking for motivated labor to achieve their goals.
 
 John's background [here.](https://docs.google.com/document/d/1yAzAxRs-IbNfx3_Pt6qWHB00IBXtz35c4rg8Q9Saqz8/edit?usp=sharing)
 
