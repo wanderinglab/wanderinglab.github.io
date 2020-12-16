@@ -71,5 +71,13 @@
   number_educ: 2
   education1: MS Data Science, SMU
   education2: BS Industrial & Management Engineering, RPI
+
+  - name: Noelle Brown
+  photo: littleredhen.png
+  info: Data Scientist
+  email: noelleb@smu.edu
+  number_educ: 2
+  education1: MS Data Science, SMU
+  education2: BS Mathematics, CSU
   
 
